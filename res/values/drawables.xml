@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<resources> 
+    <item type="drawable" name="transparent">#00000000</item>
+    <item type="drawable" name="bottomtext">#a9a9a9</item> 
+    <item type="drawable" name="bottomtext_press">#9370db</item>
+    <item type="drawable" name="white">#fff</item>
+    <item type="drawable" name="gray">#ccc</item>
+    <item type="drawable" name="dark_gray">#4D4D4D</item> 
+    <item type="drawable" name="blanchedalmond">#FFEBCD</item>
+    <item type="drawable" name="mediumseagreen">#90C6D3</item> 
+    <item type="drawable" name="bg_all">#e6e6e6</item>  
+    <item type="drawable" name="gray_light">#7A7A7A</item>
+    <item type="drawable" name="black">#000</item>
+    <item type="drawable" name="backgr_gray">#606060</item>
+    <item type="drawable" name="popwindow_textcolor_yellow">#E7A019</item>
+    <item type="drawable" name="light_blue">#7f6495ED</item>
+    <item type="drawable" name="clickgreen">#A5D932</item>
+    <item type="drawable" name="leader_blue">#87D5FB</item>
+    <item type="drawable" name="blue">#39b9fa</item>
+    <!-- 登录时 下载App更新时用的 -->
+    <item type="drawable" name="gray_dark">#525252</item> 
+    <item type="drawable" name="bule">#0099ff</item> 
+    <item type="drawable" name="popwindow_titilecolor">#EEF3FA</item>
+</resources> 
